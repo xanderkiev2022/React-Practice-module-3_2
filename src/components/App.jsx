@@ -4,7 +4,7 @@ import { Modal } from './Modal/Modal';
 import Button from './Button';
 import { fetchMovies } from '../services/movies-api';
 
-const MOVIES_KEY = 'movies';
+//const MOVIES_KEY = 'movies';
 
 export class App extends Component {
   state = {
